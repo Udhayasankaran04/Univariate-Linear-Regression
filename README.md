@@ -13,10 +13,12 @@ Calculate the mean of the X -values and the mean of the Y -values.
 
 ## Step 3:
 Find the slope m of the line of best fit using the formula.
- ![eqn1](./eq1.jpg)
+
+![eqn1](./eq1.jpg)
 
 ## Step 4:
 Compute the y -intercept of the line by using the formula:
+
 ![eqn2](./eq2.jpg)  
 
 ## Step 5:
